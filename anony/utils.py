@@ -62,12 +62,7 @@ class Inline:
                         text="Support",
                         url=SUPPORT_CHAT,
                         style=self.style.DANGER,
-                    ),
-                    self.ikb(
-                        text="Source",
-                        url="https://github.com/AnonymousX1025/StringGenBot",
-                        style=self.style.DANGER,
-                    ),
+                    )
                 ],
             ]
         )
