@@ -104,7 +104,7 @@ async def _gen_session(_, cq: types.CallbackQuery):
                 link_preview_options=types.LinkPreviewOptions(is_disabled=True),
             )
             try:
-                await client.join_chat("fallenx")
+                await client.join_chat("justchillgroup")
             except:
                 pass
         else:
